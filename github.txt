@@ -1,0 +1,3 @@
+﻿Github - yaratdıgımız proyektləri və ya faylları internet vasitəsilə basqalarına paylaşdığımız səbəkədir. Proyektlərimizi və fayllarımızı gizlidə saxlaya bilərik.
+Github - sadəcə fayl və ya proyekt paylasmaqla qalmayıb digər insanların paylaşdığı proyektlərinə baxa və istifadə edə bilərik. Basqa insanların paylaşdığı problemlərinin həllində köməklikdə edə bilərik.
+Githuba nə qədər çox müxtəlif tipli proyektlər və lahiyələr paylaşsaq, nə qədər çox open source-a faydamız olsa karyera inkişafında özümüzə faydası olacaq.
